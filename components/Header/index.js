@@ -20,7 +20,7 @@ export default function Header(){
             <Spacer/>
             <Breadcrumb>
             <BreadcrumbItem>
-                <Link href='/'><Button m={2} colorScheme='green'>Casa</Button></Link>
+                <Link href='/'><Button m={2} colorScheme='green'>Principal</Button></Link>
             </BreadcrumbItem>
 
                 <BreadcrumbItem>
